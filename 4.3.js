@@ -1,4 +1,4 @@
-function rand10(min, max) {
+/*function rand10(min, max) {
     return Math.floor(Math.random()*10);
 }
 
@@ -14,3 +14,4 @@ function multiRand(n) {
 
 n=prompt("tell me how many numbers u want");
 alert("there there " + multiRand(n));
+*/
