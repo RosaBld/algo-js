@@ -13,5 +13,5 @@ function multiRand(n) {
 }
 
 n=prompt("tell me how many numbers u want");
-alert("there there " + multiRand(n));
+alert("there there: " + multiRand(n));
 */
