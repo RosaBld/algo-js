@@ -3,6 +3,6 @@ let inputAr=["Alexandre Vandewiele","Antoine Lansman", "Bastien Venturi","Carole
 let n= Math.floor(Math.random()*inputAr.length);
 
 function pickLearner(inputAr, n) {
-    console.log(inputAr[(Math.floor(Math.random()*inputAr.length))]);
+    alert('you got: ' + inputAr[(Math.floor(Math.random()*inputAr.length))]);
 }
 pickLearner(inputAr,n);

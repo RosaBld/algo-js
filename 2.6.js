@@ -1,4 +1,4 @@
-/*let i=0;
+let i=0;
 let day=prompt("Enter a number between 1 and 7");
 switch(day) {
     case "1":
@@ -26,4 +26,4 @@ switch(day) {
         alert("Not a number between 1 and 7");
         break;
 }
-while (i==0);*/
+while (i==0);

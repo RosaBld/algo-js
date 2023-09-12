@@ -1,4 +1,4 @@
-/*let min=prompt("Enter a minimum");
+let min=prompt("Enter a minimum");
 let current=prompt("Enter a current");
 let max=prompt("Enter a max");
 
@@ -11,4 +11,3 @@ while (min<max) {
 while (current<min) {
     alert("You know nothing");
 }
-*/

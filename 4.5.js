@@ -8,4 +8,4 @@ function calcDistance(x1,x2,y1,y2){
     let x=y2-y1;
     return Math.sqrt((x*x)+(y*y));
 }
-console.log(calcDistance(x1,x2,y1,y2));
+alert('the distance of the coordinates is: ' + calcDistance(x1,x2,y1,y2));
